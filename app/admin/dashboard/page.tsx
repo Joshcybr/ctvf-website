@@ -244,7 +244,7 @@ function Sidebar() {
       <div className="sidebar-header">
         <div className="logo">
           <div className="logo-icon">
-            <img src="/assets/ctvf_logo.PNG" alt="CTVF Logo" />
+            <img src="/assets/ctvf_logo.png" alt="CTVF Logo" />
           </div>
           <div className="logo-text">
             <div className="logo-title">CTVF</div>

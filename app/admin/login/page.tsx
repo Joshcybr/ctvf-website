@@ -50,7 +50,7 @@ export default function AdminLogin() {
 
         {/* Logo */}
         <div className="logo-row">
-          <img src="/assets/ctvf_logo.PNG" alt="CTVF" className="logo-img" />
+          <img src="/assets/ctvf_logo.png" alt="CTVF" className="logo-img" />
           <div>
             <div className="logo-name">CTVF</div>
             <div className="logo-sub">Cape Town Volleyball Federation</div>

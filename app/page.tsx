@@ -32,7 +32,7 @@ export default function Home() {
             <Link href="/" className="logo">
               <div className="logo-badge">
                 <div className="logo-icon">
-                  <img src="/assets/ctvf_logo.PNG" alt="CTVF Logo" />
+                  <img src="/assets/ctvf_logo.png" alt="CTVF Logo" />
                 </div>
                 <div className="logo-text-wrapper">
                   <span className="logo-text">CTVF</span>

@@ -142,7 +142,7 @@ export default function AdminTeams() {
         <div style={{ padding: '1.5rem 1.25rem', borderBottom: '1px solid rgba(255,255,255,0.12)', display: 'flex', alignItems: 'center', justifyContent: 'space-between', flexShrink: 0 }}>
           <div style={{ display: 'flex', alignItems: 'center', gap: '0.875rem' }}>
             <div style={{ width: 48, height: 48, borderRadius: 10, overflow: 'hidden', flexShrink: 0 }}>
-              <img src="/assets/ctvf_logo.PNG" alt="CTVF" style={{ width: '100%', height: '100%', objectFit: 'contain' }} />
+              <img src="/assets/ctvf_logo.png" alt="CTVF" style={{ width: '100%', height: '100%', objectFit: 'contain' }} />
             </div>
             <div>
               <div style={{ fontSize: '1.4rem', fontWeight: 800, color: 'white', letterSpacing: '-0.02em' }}>CTVF</div>
